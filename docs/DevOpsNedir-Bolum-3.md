@@ -1,4 +1,5 @@
-# DevOps Nedir? | Bölüm 3: İnsanlar, Süreç ve Teknoloji
+# DevOps Nedir? | Bölüm 3
+## İnsanlar, Süreç ve Teknoloji
 
 DevOps kültürünüzün nasıl görüneceğine dair net bir fikre sahip olduğunuzda, mevcut süreçlerinizi gözden geçirmenin ve geleceğe yönelik iyileştirmeleri değerlendirmenin zamanı gelmiştir. DevOps üç ana odak noktasına sahiptir: insanlar, süreç ve teknoloji. Süreç, DevOps dönüşümünde kültürden sonra ikinci en önemli unsurdur.
 
