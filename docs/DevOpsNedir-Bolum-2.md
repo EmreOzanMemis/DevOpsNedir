@@ -216,3 +216,5 @@ Teknik Eğitmenlerin etkinliğini ölçmek inanılmaz derecede zordur. Bu yüzde
 Mevzu Microsoft'da gelmişken https://azure.microsoft.com/en-us/solutions/devops/devops-at-microsoft linkinden Microsoft 'un DevOps dönüşümü ile ilgili carpıcı bilgilere ulaşabilirsiniz. 
 
 Bazı okuyan arkadaşlar DevOps diye geldik yanlışmı geldik diyebilirsiniz yada ne alakası var diyor olabilrisiniz. Ama herşey toz buluttu noktasından başlamak bazen olduğumuzu yeri anlamamızda faydalı olabileceğini düşündüm. DevOps 'u anlamanın en temel ikinci durağı Şirket kültürüni ve DevOps değerlerini anlamak olacağını düşünüyorum. 
+
+* [DevOps Nedir? Bölüm 3](DevOpsNedir-Bolum-3.md)
