@@ -1,4 +1,4 @@
-# DevOps Nedir ? | Bölüm 1
+# DevOps Nedir ? Bölüm 1
 DevOps, mühendislik ekiplerinin yazılım geliştirme ve dağıtım süreçlerinde iş birliği yapma şeklini dönüştüren geniş kapsamlı bir yaklaşımdır. Farklı endüstrilerde çeşitli uygulamaları teşvik ederek yazılım süreçlerini daha verimli hale getiren geniş kapsamlı bir felsefedir.
 
 ![image](https://github.com/user-attachments/assets/1b8677ed-9eef-4823-bdbd-202d3140f53d)
