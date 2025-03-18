@@ -197,4 +197,4 @@ Geliştiriciler ve operasyon ekipleri bir araya geldiğinde neden iç çekildiğ
 
 DevOps, izole sorumluluklar ve çelişen hedefler nedeniyle oluşan zorlukları ortadan kaldırmayı amaçlar. Teşvikleri uyumlu hale getirerek, bilgi paylaşımını teşvik ederek, engelleri kaldırarak ve farklı rollerin önemini kabul ederek DevOps, ekip içindeki iletişimi ve iş birliğini büyük ölçüde geliştirebilir. 
 
-## [DevOps Nedir? Bölüm 2](DevOpsNedir-Bolum-2.md#DevOps-Nedir-?-Bölüm-2)
+## [DevOps Nedir? Bölüm 2](DevOpsNedir-Bolum-2.md)
