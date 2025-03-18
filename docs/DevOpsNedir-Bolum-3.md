@@ -124,3 +124,5 @@ Darboğazı hemen kaldıramıyorsanız, bir tampon oluşturmak, tüm üretim sis
 Sonuç olarak, darboğazları önlemenin en iyi yolu, ekiplerinizi sürecin her yönü hakkında eğitmektir.
 
 Hayır, geliştiricilerin Kubernetes uzmanı olmalarını beklemiyorum. Aynı şekilde, operasyon ekibinin her hafta Java’da yeni özellikler oluşturmasını da beklemiyorum. Ancak çapraz eğitim (cross-training) sağlamak, mühendislerin daha uyumlu ve esnek hale gelmelerini sağlar, böylece alternatif çözümler bulabilir ve sistem kesintilerini azaltabilirler. Ayrıca, bir ekipten diğerine iş devredildiğinde ortaya çıkan karışıklığı da azaltır. 
+
+* [Ana Sayfa](/)
