@@ -2,6 +2,8 @@
 
 Şirket kültürü, bir organizasyonun örtük beklentileri, davranışları ve değerleri olarak tanımlanabilir. Kültür, çalışanlarınıza şirket liderliğinin yeni fikirlere ne kadar açık olduğunu ve çalışanların kendilerini ne kadar özgür hissettiklerini gösterir. Aynı zamanda, bir çalışanın bir problemi dile getirip getirmemesi veya bu sorunu göz ardı etmesi gerektiği konusunda yol gösterici olur.
 
+![image](https://github.com/user-attachments/assets/306201b8-309c-42b9-a3e0-2fa81622dbcc)
+
 ## Kültürün Karar Alma Sürecine Etkisi 
 
 Her gün, çalışanlar ve iş arkadaşları, yönetimin doğrudan müdahalesi olmadan binlerce karar alır. Bu, verimliliği ve bağımsızlığı artıran olumlu bir durumdur. Kim bir mikroyöneticiyle çalışmak ister ki? Şirket kültürü, bu küçük ancak sürekli alınan kararları yönlendiren en önemli unsurdur. Bu nedenle, şirket kültürünün çalışanlar için faydalı olmasını ve çalışma ortamlarının keyifli bir yer olmasını sağlamak yöneticilerin sorumluluğundadır.
