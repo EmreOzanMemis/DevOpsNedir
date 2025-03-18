@@ -24,7 +24,7 @@ DevOps her şeyden önce bir kültürel değişimdir. Ekiplerin özgürce öğre
 Başarısızlık kaçınılmazdır. Kaçınılmaz olmasına rağmen, zamanınızın büyük bir kısmını başarısızlıktan kaçınmaya çalışarak geçirirsiniz. Ancak başarısızlık her zaman kötü bir şey değildir... 
 
 # [DevOps Nedir? Bölüm 3](https://github.com/EmreOzanMemis/DevOpsNedir/blob/main/docs/DevOpsNedir-B%C3%B6l%C3%BCm-3.md)
-## İnsanlar🏃‍♂️‍➡️🏃‍♀️‍➡️, Süreç 🧗ve Teknoloji 🧑‍💻 
+## İnsanlar🏃‍♂️‍➡️🏃‍♀️‍➡️, Süreç 🧗ve Teknoloji 🧑‍💻 
 
 İş Yönetimi Yaklaşımı, "The Toyota Way" adlı kitapta ayrıntılı olarak ele alınmıştır. Okumanızı tavsiye ederim. Jeffrey K. Liker kaleminde yazılan kitapta Sistem 14 temel prensibe bölünmüştür. Bu prensiplerin tümü, DevOps uygulamalarınızı güçlendirebilir... 
 
