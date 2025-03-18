@@ -15,7 +15,7 @@ Bu klasik çekişmelerin ardında aslında bir gerçek yatıyor: Yazılım geli�
 İşte tam da bu noktada ne yapmak lazım ? 
 
 # [DevOps Nedir? Bölüm 2](https://github.com/EmreOzanMemis/DevOpsNedir/blob/main/docs/DevOpsNedir-B%C3%B6l%C3%BCm-2.md)
-## Küçük Dokunuşlarla Büyük Fark Yaratın
+## Küçük Dokunuşlarla Büyük Fark Yaratın 🧑‍💻
 
 DevOps'un özü, sadece teknolojiyi değil, aynı zamanda insanların nasıl çalıştığını, nasıl iş birliği yaptığını ve organizasyonun genel kültürünü nasıl şekillendirdiğini içerir.
 
