@@ -1,4 +1,4 @@
-# DevOps Nedir | Bölüm 2 
+# DevOps Nedir Bölüm 2 
 
 ## Detaylar Önemlidir. Küçük Dokunuşlarla Büyük Fark Yaratın
 
