@@ -1,6 +1,6 @@
 # DevOps Nedir?
 
-DevOps, yazılım geliştirme (Development) ve BT operasyonları (Operations) süreçlerini birleştiren bir kültür ve metodolojidir. Bu yaklaşım, yazılım teslimatını hızlandırmayı, kaliteyi artırmayı ve iş birliğini güçlendirmeyi amaçlar.&#8203;:contentReference[oaicite:3]{index=3}
+DevOps, yazılım geliştirme (Development) ve BT operasyonları (Operations) süreçlerini birleştiren bir kültür ve metodolojidir. Bu yaklaşım, yazılım teslimatını hızlandırmayı, kaliteyi artırmayı ve iş birliğini güçlendirmeyi amaçlar.
 
 
 # [DevOps Nedir? Bölüm 1](https://github.com/EmreOzanMemis/DevOpsNedir/blob/main/docs/DevOpsNedir-B%C3%B6l%C3%BCm-1.md)
