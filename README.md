@@ -25,17 +25,29 @@ DevOps'un özü, sadece teknolojiyi değil, aynı zamanda insanların nasıl ça
 İş Yönetimi Yaklaşımı, "The Toyota Way" adlı kitapta ayrıntılı olarak ele alınmıştır. Jeffrey K. Liker'ın kaleme aldığı bu kitap, DevOps uygulamalarınızı güçlendirebilecek 14 temel prensibi içerir:
 
 ✅ Uzun vadeli itibarı ön planda tutun, kısa vadeli finansal kayıplar pahasına bile olsa.
+
 ✅ Sürekli bir süreç akışı yaratarak sorunlu alanları ortaya çıkarın.
+
 ✅ Ana değer sağlayan işlere odaklanın ve aşırı üretimden kaçının.
+
 ✅ Çalışanları ve ekipmanları etkili kullanın.
+
 ✅ Kaliteyi önceliklendirin ve gerektiğinde süreci durdurma yetkisini herkese verin.
+
 ✅ Tutarlılık sağlamak için süreçleri standartlaştırın.
+
 ✅ Görsel araçlar oluşturun, böylece sorunlar gizli kalamaz.
+
 ✅ Teknolojiyi insanlardan ve süreçlerden sonra değerlendirin. Çalışanları eğitin ve geliştirin.
+
 ✅ Şirket kültürüne ve felsefesine inanan çalışanlar yetiştirin.
+
 ✅ İş ortaklarının gelişmesine yardımcı olun.
+
 ✅ Yöneticiler, çalışanlarının zorluklarını anlamak için bizzat sahaya gidip süreci gözlemlemelidir.
+
 ✅ Yavaş karar alın, ancak hızlı uygulayın.
+
 ✅ Geri bildirimlerden ders çıkarın (hensei) ve sürekli iyileştirme yapın (kaizen).
 
 ### DevOps'un Kazandırdıkları 💡
