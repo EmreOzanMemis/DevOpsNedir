@@ -1,6 +1,8 @@
 # DevOps Nedir ? | Bölüm 1
 DevOps, mühendislik ekiplerinin yazılım geliştirme ve dağıtım süreçlerinde iş birliği yapma şeklini dönüştüren geniş kapsamlı bir yaklaşımdır. Farklı endüstrilerde çeşitli uygulamaları teşvik ederek yazılım süreçlerini daha verimli hale getiren geniş kapsamlı bir felsefedir.
 
+![image](https://github.com/user-attachments/assets/1b8677ed-9eef-4823-bdbd-202d3140f53d)
+
 DevOps, yazılım geliştirme yaşam döngüsünü fikir aşamasından üretime kadar hızlandırmayı hedefleyen, iş birliği, sahiplenme ve sürekli öğrenme kültürüdür. Kişiler arası sürtüşmeleri azaltarak, darboğazları ortadan kaldırarak ve iş birliğini geliştirerek ekiplerin daha verimli çalışmasını sağlar. Mühendisleri güçlendirerek iş moteivsyonunu artırır ve ekip üretkenliğini hızlandırır. DevOps sihirli bir çözüm değildir, ancak organizasyonunuz ve ürünleriniz üzerinde önemli bir etki yaratabilir.
 
 Bu makale DevOpsun, süreç ve araçlardan çok kültürün önemini vurguluyor, DevOps'un ilkelerini ve değerlerini tartışıyor ve organizasyonunuzun bir DevOps yaklaşımından nasıl faydalanabileceğini dilim döndüğünce anlatıyorum. 
