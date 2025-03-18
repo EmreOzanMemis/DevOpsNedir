@@ -1,4 +1,6 @@
-# DevOps Nedir | Bölüm 2: Detaylar Önemlidir. Küçük Dokunuşlarla Büyük Fark Yaratın
+# DevOps Nedir | Bölüm 2 
+
+## Detaylar Önemlidir. Küçük Dokunuşlarla Büyük Fark Yaratın
 
 Şirket kültürü, bir organizasyonun örtük beklentileri, davranışları ve değerleri olarak tanımlanabilir. Kültür, çalışanlarınıza şirket liderliğinin yeni fikirlere ne kadar açık olduğunu ve çalışanların kendilerini ne kadar özgür hissettiklerini gösterir. Aynı zamanda, bir çalışanın bir problemi dile getirip getirmemesi veya bu sorunu göz ardı etmesi gerektiği konusunda yol gösterici olur.
 
