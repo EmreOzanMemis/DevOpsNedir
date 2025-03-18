@@ -3,7 +3,7 @@
 DevOps, yazılım geliştirme (Development) ve BT operasyonları (Operations) süreçlerini birleştiren bir kültür ve metodolojidir. Bu yaklaşım, yazılım teslimatını hızlandırmayı, kaliteyi artırmayı ve iş birliğini güçlendirmeyi amaçlar.
 
 
-# [DevOps Nedir? Bölüm 1](https://github.com/EmreOzanMemis/DevOpsNedir/blob/main/docs/DevOpsNedir-Bolum-1.md)
+* [DevOps Nedir? Bölüm 1](DevOpsNedir-Bolum-1.md#DevOps-Nedir-?-|-Bölüm-1)
 ## DevOps: Sadece Bir Araç mı Yoksa Bir Kültür mü ? 🚀 
 
 "Benim localimde çalışıyor!" – Tanıdık geldi mi?
@@ -14,7 +14,7 @@ Bu klasik çekişmelerin ardında aslında bir gerçek yatıyor: Yazılım geli�
 
 İşte tam da bu noktada ne yapmak lazım ? 
 
-# [DevOps Nedir? Bölüm 2](https://github.com/EmreOzanMemis/DevOpsNedir/blob/main/docs/DevOpsNedir-Bolum-2.md)
+* [DevOps Nedir? Bölüm 2](DevOpsNedir-Bolum-2.md#DevOps-Nedir-?-|-Bölüm-2)
 ## Küçük Dokunuşlarla Büyük Fark Yaratın 🧑‍💻
 
 DevOps'un özü, sadece teknolojiyi değil, aynı zamanda insanların nasıl çalıştığını, nasıl iş birliği yaptığını ve organizasyonun genel kültürünü nasıl şekillendirdiğini içerir.
@@ -23,7 +23,7 @@ DevOps her şeyden önce bir kültürel değişimdir. Ekiplerin özgürce öğre
 
 Başarısızlık kaçınılmazdır. Kaçınılmaz olmasına rağmen, zamanınızın büyük bir kısmını başarısızlıktan kaçınmaya çalışarak geçirirsiniz. Ancak başarısızlık her zaman kötü bir şey değildir... 
 
-# [DevOps Nedir? Bölüm 3](https://github.com/EmreOzanMemis/DevOpsNedir/blob/main/docs/DevOpsNedir-Bolum-3.md)
+* [DevOps Nedir? Bölüm 3](DevOpsNedir-Bolum-3.md#DevOps-Nedir-?-|-Bölüm-3)
 ## İnsanlar🏃‍♂️‍➡️🏃‍♀️‍➡️, Süreç 🧗ve Teknoloji 🧑‍💻 
 
 İş Yönetimi Yaklaşımı, "The Toyota Way" adlı kitapta ayrıntılı olarak ele alınmıştır. Okumanızı tavsiye ederim. Jeffrey K. Liker kaleminde yazılan kitapta Sistem 14 temel prensibe bölünmüştür. Bu prensiplerin tümü, DevOps uygulamalarınızı güçlendirebilir... 
