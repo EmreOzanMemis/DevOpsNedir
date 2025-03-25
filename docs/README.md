@@ -53,10 +53,19 @@ Ana değer sağlayan işlere odaklanın ve her “iyi” fikri hayata geçirerek
 
 -Geri bildirimlerden ders çıkarın (hensei) ve sürekli iyileştirme yapın (kaizen) ki müşteri memnuniyeti sağlansın.
 
+## [DevOps Nedir? Bölüm 4](DevOpsNedir-Bolum-4.md#DevOps-Nedir-?-Bölüm-4)
+
+İnsanlar değişimden hoşlanmaz, çünkü beynimiz böyle çalışır. Alışkanlıklar güçlüdür çünkü verimlidir. Beyniniz daha az düşünerek aynı üretkenliği sağlar. Beyniniz bilgi işlemekte olağanüstü derecede yeteneklidir. Konfor alanını terk etmek her zaman zor olmuştur.
+
+Psikoloji, insanların değişime neden bu kadar direnç gösterdiği konusunda bilgiler sunar. Eylemsizlik güçlüdür ve değişim pahalıya patlar. İnsanlar, bulundukları yolda kalma eğilimindedir çünkü yön değiştirmek çaba ister. Yola devam etmek ise daha kolaydır. Mevcut durumdan kurtulup yeni bir yöne ilerlemek çok fazla beyin enerjisi gerektirir. 
+
+Yeni bir şey öğrenirken neden biraz daha fazla acıktığınızı fark ettiniz mi?
+
 
 * [DevOps Nedir? Bölüm 1](DevOpsNedir-Bolum-1.md)
 * [DevOps Nedir? Bölüm 2](DevOpsNedir-Bolum-2.md)
 * [DevOps Nedir? Bölüm 3](DevOpsNedir-Bolum-3.md)
+* [DevOps Nedir? Bölüm 4](DevOpsNedir-Bolum-4.md)
 
 
 
