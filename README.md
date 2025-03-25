@@ -61,6 +61,8 @@ DevOps'un özü, sadece teknolojiyi değil, aynı zamanda insanların nasıl ça
 ## 🏆
 DevOps, sadece bir araç seti değil, bir kültür değişimidir. İnsanları, süreçleri ve teknolojiyi bir araya getirerek yazılım geliştirme ve operasyon süreçlerinde büyük farklar yaratır. 🌍
 
+Sizler için harika bir rehber https://emreozanmemis.github.io/DevOpsNedir/#/ linkinden "DevOps Nedir ?" anlattığım e-book inceleyebilirsiniz. 
+
 ---
 
 📌 Daha fazla bilgi için **Pull Request** açabilir veya sorularınızı **Issues** bölümünde paylaşabilirsiniz! ✨
