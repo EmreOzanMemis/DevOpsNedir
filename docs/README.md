@@ -61,6 +61,22 @@ Psikoloji, insanların değişime neden bu kadar direnç gösterdiği konusunda 
 
 Yeni bir şey öğrenirken neden biraz daha fazla acıktığınızı fark ettiniz mi?
 
+## [DevOps Nedir? Bölüm 5](DevOpsNedir-Bolum-5.md#DevOps-Nedir-?-Bölüm-5)
+
+DevOps dönüşümü yeni yıl kararları gibi başlar…
+
+"Her gün deploy yapacağız, her şeyi otomatikleştireceğiz, DORA metrikleriyle dans edeceğiz!" 💃🕺
+
+Sonra bir bakmışsınız, "Cuma deploy yapmayalım abi, sonra pazar günü herkes Slack’te..." 😅
+
+Ama merak etmeyin.
+
+Bu işin doğası böyle. Kimi gün başarı, kimi gün rollback. Önemli olan ölçmek, görmek ve hep birlikte iyileştirmek.
+
+ 📊 DORA metrikleri,
+ 🙋‍♀️ Developer Experience (DX),
+ 🧠 ve bolca sağduyu...
+
 
 * [DevOps Nedir? Bölüm 1](DevOpsNedir-Bolum-1.md)
 * [DevOps Nedir? Bölüm 2](DevOpsNedir-Bolum-2.md)
