@@ -77,13 +77,22 @@ Bu işin doğası böyle. Kimi gün başarı, kimi gün rollback. Önemli olan �
  🙋‍♀️ Developer Experience (DX),
  🧠 ve bolca sağduyu...
 
+## [DevOps Nedir? Bölüm 6](DevOpsNedir-Bolum-6.md#DevOps-Nedir-?-Bölüm-6)
+
+🎢 Yazılım Geliştirme Bir Yolculuksa, DevOps Onun Hız Treni
+
+Planla. Kodla. Test et. Yayınla. Bakım yap. Tekrar planla. Derken fark ettik ki... yazılım geliştirme bir düz çizgi değil, bir sonsuz döngüymüş
+
+Yeni yazımda, yazılım geliştirme yaşam döngüsünü (SDLC), waterfall’dan DevOps’a evrilen süreçleri, “shift left” felsefesini ve staging ortamlarının neden bir sahne provası kadar önemli olduğunu gündelik bir dille anlattım.
+
+Kahve içerken okuyabileceğiniz kadar samimi ama CI/CD kadar teknik. ☕⚙️
 
 * [DevOps Nedir? Bölüm 1](DevOpsNedir-Bolum-1.md)
 * [DevOps Nedir? Bölüm 2](DevOpsNedir-Bolum-2.md)
 * [DevOps Nedir? Bölüm 3](DevOpsNedir-Bolum-3.md)
 * [DevOps Nedir? Bölüm 4](DevOpsNedir-Bolum-4.md)
 * [DevOps Nedir? Bölüm 5](DevOpsNedir-Bolum-5.md)
-
+* [DevOps Nedir? Bölüm 6](DevOpsNedir-Bolum-6.md)
 
 
 
