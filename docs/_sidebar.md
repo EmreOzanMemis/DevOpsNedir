@@ -5,3 +5,4 @@
 * [DevOps Nedir? Bölüm 5](DevOpsNedir-Bolum-5.md)
 * [DevOps Nedir? Bölüm 6](DevOpsNedir-Bolum-6.md)
 * [DevOps Nedir? Bölüm 7](DevOpsNedir-Bolum-7.md)
+* [DevOps Nedir? Bölüm 8](DevOpsNedir-Bolum-8.md)
