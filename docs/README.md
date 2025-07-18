@@ -87,6 +87,48 @@ Yeni yazımda, yazılım geliştirme yaşam döngüsünü (SDLC), waterfall’da
 
 Kahve içerken okuyabileceğiniz kadar samimi ama CI/CD kadar teknik. ☕⚙️
 
+## [DevOps Nedir? Bölüm 7](DevOpsNedir-Bolum-7.md#DevOps-Nedir-?-Bölüm-7)
+
+DevOps sadece otomasyon değil. Sadece pipeline değil. Sadece kodun prod’a çıkması değil...
+
+DevOps;
+🧠 Düşünmek,
+🗣️ Anlamak,
+📐 Planlamak,
+💡 Öğrenmek,
+👂 Dinlemek,
+ve en sonunda 🚀 Yayınlamaktır.
+
+Bu yazımda neler anlattım...
+✅ Planlamanın gücü
+✅ Gereksinimleri doğru toplamanın değeri
+✅ MVP ile küçük ama anlamlı başlamak gerektiğini 
+✅ Persona ile kullanıcıyı tanımadan ürün yapılmayacağını öğrendik.
+
+Ve şimdi...
+Belki de sırada, senin hikâyeni başlatmak var.
+Bir fikir varsa, küçük bir adım at.
+Bir sorun varsa, planla.
+Bir kullanıcı varsa, dinle.
+
+Ve unutma:
+İyi plan, sağlam ekip ve doğru kullanıcıyla her fikir uçabilir. Hadi, deploy tuşuna basmadan önce bir düşün... Planladık mı? Öğrendik mi? Denedik mi?
+
+## [DevOps Nedir? Bölüm 8](DevOpsNedir-Bolum-8.md#DevOps-Nedir-?-Bölüm-8)
+
+🎯 Kod yazmak kolay… Peki ya tasarlamak?
+🔧 Yazılımcıysan, kod yazmak kadar neden öyle yazdığını açıklamak da önemli.
+
+🧠 Hele bir de DevOps bakış açısıyla yaklaşınca işler “Bende çalışıyor ama prod'da niye patladı?”dan “Beraber tasarladık, beraber çalıştırıyoruz”a evriliyor.
+
+Bu yazıda şunlara birlikte kafa yoralım...
+✅ “Performant” kod ne demek ?
+✅ Handoff kabusları ve ekipler arası paslaşma dramaları
+✅ Test yazmadan önce gelen “abi zaten çalışıyor” özgüveni
+✅ Tasarım masasına herkesin sandalyesi olmalı mı? (evet!)
+✅ Güvenlik, kullanılabilirlik, ölçeklenebilirlik ve diğer yazılım süper güçleri
+✅ Yorum satırı yazmayanlara ufak bir sitem, mimarlara gönülden bir teşekkür
+
 * [DevOps Nedir? Bölüm 1](DevOpsNedir-Bolum-1.md)
 * [DevOps Nedir? Bölüm 2](DevOpsNedir-Bolum-2.md)
 * [DevOps Nedir? Bölüm 3](DevOpsNedir-Bolum-3.md)
@@ -94,7 +136,7 @@ Kahve içerken okuyabileceğiniz kadar samimi ama CI/CD kadar teknik. ☕⚙️
 * [DevOps Nedir? Bölüm 5](DevOpsNedir-Bolum-5.md)
 * [DevOps Nedir? Bölüm 6](DevOpsNedir-Bolum-6.md)
 * [DevOps Nedir? Bölüm 7](DevOpsNedir-Bolum-7.md)
-
+* [DevOps Nedir? Bölüm 8](DevOpsNedir-Bolum-8.md)
 
 
 
